@@ -1,0 +1,834 @@
+# depslib dependency file v1.0
+1479216648 source:c:\users\mik\documents\github\facultad-proyectoutn\facultad-proyectoutn\utnmayorista\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"persona.h"
+	"listadoble.h"
+
+1479090106 source:c:\users\mik\documents\github\facultad-proyectoutn\facultad-proyectoutn\utnmayorista\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1478816687 source:c:\users\mik\documents\github\facultad-proyectoutn\facultad-proyectoutn\utnmayorista\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1478810374 source:c:\users\mik\documents\github\facultad-proyectoutn\facultad-proyectoutn\utnmayorista\listadoble.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479218499 source:c:\users\mik\documents\github\facultad-proyectoutn\facultad-proyectoutn\utnmayorista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479221292 source:c:\users\mik\documents\github\facultad-proyectoutn\facultad-proyectoutn\utnmayorista\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479216353 c:\users\mik\documents\github\facultad-proyectoutn\facultad-proyectoutn\utnmayorista\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1478739911 c:\users\mik\documents\github\facultad-proyectoutn\facultad-proyectoutn\utnmayorista\caja.h
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+	"persona.h"
+
+1478716395 c:\users\mik\documents\github\facultad-proyectoutn\facultad-proyectoutn\utnmayorista\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1478740113 c:\users\mik\documents\github\facultad-proyectoutn\facultad-proyectoutn\utnmayorista\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1478740470 c:\users\mik\documents\github\facultad-proyectoutn\facultad-proyectoutn\utnmayorista\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+
+1479222066 source:c:\users\mik\documents\github\facultad-proyectoutn\facultad-proyectoutn\utnmayorista\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+	<windows.h>
+	"math.h"
+
+1479759081 source:c:\users\paula\desktop\facultad-proyectoutn\utnmayorista\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"persona.h"
+	"listadoble.h"
+
+1479755424 c:\users\paula\desktop\facultad-proyectoutn\utnmayorista\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479685804 c:\users\paula\desktop\facultad-proyectoutn\utnmayorista\caja.h
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+	"persona.h"
+
+1479684614 c:\users\paula\desktop\facultad-proyectoutn\utnmayorista\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1479736639 c:\users\paula\desktop\facultad-proyectoutn\utnmayorista\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1479684705 c:\users\paula\desktop\facultad-proyectoutn\utnmayorista\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+
+1479757783 source:c:\users\paula\desktop\facultad-proyectoutn\utnmayorista\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479757783 source:c:\users\paula\desktop\facultad-proyectoutn\utnmayorista\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479684743 source:c:\users\paula\desktop\facultad-proyectoutn\utnmayorista\listadoble.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479757783 source:c:\users\paula\desktop\facultad-proyectoutn\utnmayorista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479757783 source:c:\users\paula\desktop\facultad-proyectoutn\utnmayorista\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+	<windows.h>
+	"math.h"
+
+1479736639 source:c:\users\paula\desktop\facultad-proyectoutn\utnmayorista\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1480038600 source:c:\users\mik\documents\github\facultad-proyectoutn\utnmayorista\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"persona.h"
+	"listadoble.h"
+
+1480038499 c:\users\mik\documents\github\facultad-proyectoutn\utnmayorista\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1480042057 c:\users\mik\documents\github\facultad-proyectoutn\utnmayorista\caja.h
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+	"persona.h"
+
+1479761516 c:\users\mik\documents\github\facultad-proyectoutn\utnmayorista\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1479769740 c:\users\mik\documents\github\facultad-proyectoutn\utnmayorista\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1479761516 c:\users\mik\documents\github\facultad-proyectoutn\utnmayorista\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+
+1479762502 source:c:\users\mik\documents\github\facultad-proyectoutn\utnmayorista\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1480040963 source:c:\users\mik\documents\github\facultad-proyectoutn\utnmayorista\listadoble.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479795902 source:c:\users\mik\documents\github\facultad-proyectoutn\utnmayorista\main.c
+	"arbol.h"
+	"caja.h"
+	"menuNuevo.h"
+
+1479735603 source:c:\users\mik\documents\github\facultad-proyectoutn\utnmayorista\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+	<windows.h>
+	"math.h"
+
+1480036285 source:c:\users\mik\documents\github\facultad-proyectoutn\utnmayorista\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1480042109 source:c:\users\mik\documents\github\facultad-proyectoutn\utnmayorista\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479793859 source:c:\users\paula\desktop\utn2\facultad-proyectoutn\utnmayorista\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"persona.h"
+	"listadoble.h"
+
+1479794924 c:\users\paula\desktop\utn2\facultad-proyectoutn\utnmayorista\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479793632 c:\users\paula\desktop\utn2\facultad-proyectoutn\utnmayorista\caja.h
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+	"persona.h"
+
+1479761515 c:\users\paula\desktop\utn2\facultad-proyectoutn\utnmayorista\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1479769738 c:\users\paula\desktop\utn2\facultad-proyectoutn\utnmayorista\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1479761515 c:\users\paula\desktop\utn2\facultad-proyectoutn\utnmayorista\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+
+1479793435 source:c:\users\paula\desktop\utn2\facultad-proyectoutn\utnmayorista\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479762500 source:c:\users\paula\desktop\utn2\facultad-proyectoutn\utnmayorista\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479774140 source:c:\users\paula\desktop\utn2\facultad-proyectoutn\utnmayorista\listadoble.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479794555 source:c:\users\paula\desktop\utn2\facultad-proyectoutn\utnmayorista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+	"menuNuevo.h"
+
+1479786819 source:c:\users\paula\desktop\utn2\facultad-proyectoutn\utnmayorista\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+	<windows.h>
+	"math.h"
+
+1479769718 source:c:\users\paula\desktop\utn2\facultad-proyectoutn\utnmayorista\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479795284 source:c:\users\paula\desktop\utn2\facultad-proyectoutn\utnmayorista\menunuevo.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+	<windows.h>
+	"math.h"
+
+1479794449 c:\users\paula\desktop\utn2\facultad-proyectoutn\utnmayorista\menunuevo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479796118 source:d:\!! super !!\facultad-proyectoutn\utnmayorista\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"persona.h"
+	"listadoble.h"
+
+1479794924 d:\!! super !!\facultad-proyectoutn\utnmayorista\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479793632 d:\!! super !!\facultad-proyectoutn\utnmayorista\caja.h
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+	"persona.h"
+
+1479761515 d:\!! super !!\facultad-proyectoutn\utnmayorista\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1479769738 d:\!! super !!\facultad-proyectoutn\utnmayorista\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1479761515 d:\!! super !!\facultad-proyectoutn\utnmayorista\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+
+1479793435 source:d:\!! super !!\facultad-proyectoutn\utnmayorista\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479762500 source:d:\!! super !!\facultad-proyectoutn\utnmayorista\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479774140 source:d:\!! super !!\facultad-proyectoutn\utnmayorista\listadoble.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479795900 source:d:\!! super !!\facultad-proyectoutn\utnmayorista\main.c
+	"arbol.h"
+	"caja.h"
+	"menuNuevo.h"
+
+1479795852 d:\!! super !!\facultad-proyectoutn\utnmayorista\menunuevo.h
+	"arbol.h"
+	"caja.h"
+
+1479786819 source:d:\!! super !!\facultad-proyectoutn\utnmayorista\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+	<windows.h>
+	"math.h"
+
+1479769718 source:d:\!! super !!\facultad-proyectoutn\utnmayorista\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479826867 source:d:\!! super !!\facultad-proyectoutn\utnmayorista\menunuevo.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+	<windows.h>
+	"math.h"
+
+1479906035 source:c:\users\paula\desktop\grupo1\facultad-proyectoutn\utnmayorista\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"persona.h"
+	"listadoble.h"
+
+1479794924 c:\users\paula\desktop\grupo1\facultad-proyectoutn\utnmayorista\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479793632 c:\users\paula\desktop\grupo1\facultad-proyectoutn\utnmayorista\caja.h
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+	"persona.h"
+
+1479761515 c:\users\paula\desktop\grupo1\facultad-proyectoutn\utnmayorista\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1479769738 c:\users\paula\desktop\grupo1\facultad-proyectoutn\utnmayorista\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1479761515 c:\users\paula\desktop\grupo1\facultad-proyectoutn\utnmayorista\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+
+1479793435 source:c:\users\paula\desktop\grupo1\facultad-proyectoutn\utnmayorista\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479762500 source:c:\users\paula\desktop\grupo1\facultad-proyectoutn\utnmayorista\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479774140 source:c:\users\paula\desktop\grupo1\facultad-proyectoutn\utnmayorista\listadoble.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479795900 source:c:\users\paula\desktop\grupo1\facultad-proyectoutn\utnmayorista\main.c
+	"arbol.h"
+	"caja.h"
+	"menuNuevo.h"
+
+1479795852 c:\users\paula\desktop\grupo1\facultad-proyectoutn\utnmayorista\menunuevo.h
+	"arbol.h"
+	"caja.h"
+
+1479838915 source:c:\users\paula\desktop\grupo1\facultad-proyectoutn\utnmayorista\menunuevo.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+	<windows.h>
+	"math.h"
+
+1479769718 source:c:\users\paula\desktop\grupo1\facultad-proyectoutn\utnmayorista\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479906036 source:d:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"persona.h"
+	"listadoble.h"
+
+1479794926 d:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479793634 d:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\caja.h
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+	"persona.h"
+
+1479761516 d:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1479769740 d:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1479761516 d:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+
+1479793436 source:d:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479762502 source:d:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479774142 source:d:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\listadoble.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479795902 source:d:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\main.c
+	"arbol.h"
+	"caja.h"
+	"menuNuevo.h"
+
+1479795854 d:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\menunuevo.h
+	"arbol.h"
+	"caja.h"
+
+1479769720 source:d:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479906036 source:f:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"persona.h"
+	"listadoble.h"
+
+1479794926 f:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479793634 f:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\caja.h
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+	"persona.h"
+
+1479761516 f:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\fila.h
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1479769740 f:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1479761516 f:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\listadoble.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"caja.h"
+	"persona.h"
+
+1479793436 source:f:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479762502 source:f:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479774142 source:f:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\listadoble.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1479795902 source:f:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\main.c
+	"arbol.h"
+	"caja.h"
+	"menuNuevo.h"
+
+1479795854 f:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\menunuevo.h
+	"arbol.h"
+	"caja.h"
+
+1479909606 source:f:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\menunuevo.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+	<windows.h>
+	"math.h"
+
+1479769720 source:f:\laboratorio computacion grupo1\facultad-proyectoutn\utnmayorista\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+
+1480037058 c:\users\mik\documents\github\facultad-proyectoutn\utnmayorista\menunuevo.h
+	"arbol.h"
+	"caja.h"
+
+1480041993 source:c:\users\mik\documents\github\facultad-proyectoutn\utnmayorista\menunuevo.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"caja.h"
+	"persona.h"
+	"fila.h"
+	"listadoble.h"
+	<windows.h>
+	"math.h"
+

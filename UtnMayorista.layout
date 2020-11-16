@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="fila.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5877" topLine="224" />
+		</Cursor>
+	</File>
+	<File name="fila.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="553" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="listadoble.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3072" topLine="91" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="176" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menuNuevo.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="165" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="listadoble.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="267" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menuNuevo.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12147" topLine="587" />
+		</Cursor>
+	</File>
+	<File name="persona.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="537" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="persona.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2193" topLine="105" />
+		</Cursor>
+	</File>
+	<File name="arbol.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3850" topLine="199" />
+		</Cursor>
+		<Folding>
+			<Collapse line="216" />
+			<Collapse line="373" />
+			<Collapse line="406" />
+			<Collapse line="455" />
+			<Collapse line="460" />
+			<Collapse line="468" />
+			<Collapse line="489" />
+			<Collapse line="526" />
+			<Collapse line="562" />
+			<Collapse line="617" />
+			<Collapse line="628" />
+		</Folding>
+	</File>
+	<File name="arbol.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="831" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="caja.c" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5016" topLine="101" />
+		</Cursor>
+		<Folding>
+			<Collapse line="30" />
+			<Collapse line="54" />
+			<Collapse line="75" />
+			<Collapse line="85" />
+			<Collapse line="186" />
+			<Collapse line="196" />
+			<Collapse line="201" />
+			<Collapse line="209" />
+			<Collapse line="229" />
+			<Collapse line="249" />
+		</Folding>
+	</File>
+	<File name="caja.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="298" topLine="3" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
